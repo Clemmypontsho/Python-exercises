@@ -1,15 +1,6 @@
-import numpy as np
+arr = [1,3,5,7,9]
 
-
-def doubler(numbers):
-    
-    n_array = []
-    for num in numbers:
-        n_array.append(num * 2)
-    return np.array(n_array)
-
-
-if __name__ == "__main__":
-    arr = np.array([3, 5, 2, 6, 7])
-    print(doubler(arr))
-
+def double(values):
+    for y in values:
+        print(y*2)
+double(arr)        
