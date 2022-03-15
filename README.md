@@ -14,3 +14,19 @@ a method average_of_three(num1, num2, num3) that returns the average of three nu
 
  a method goodbye(name) that takes in a string name and returns a string saying bye to that
 name.
+
+Build with
+This was buld with python
+
+Prerequisite
+Any compiler that works with python I used pycharm, vs code works too
+
+Authors
+[@clemmypontsho] (https://www.github.com/clemmypontsho)
+
+Contributing
+Contributions are always welcome!
+
+
+Acknowledgements
+geeksforgeeks python practice
