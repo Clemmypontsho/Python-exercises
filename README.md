@@ -28,9 +28,10 @@ Any compiler that works with python I used pycharm, vs code works too
 
 Contributions are always welcome!
 
-![Screenshot (14)](https://user-images.githubusercontent.com/82105920/158435931-78cefe91-3092-4f73-8c21-00bd9be259c3.png)
 
 # Acknowledgements
-![Screenshot (13)](https://user-images.githubusercontent.com/82105920/158435921-5a464e2f-acc2-484b-9efd-a599432388e5.png)
 
 geeksforgeeks python practice
+
+![Screenshot (14)](https://user-images.githubusercontent.com/82105920/158435931-78cefe91-3092-4f73-8c21-00bd9be259c3.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/82105920/158435921-5a464e2f-acc2-484b-9efd-a599432388e5.png)
